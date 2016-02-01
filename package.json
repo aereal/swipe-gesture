@@ -1,7 +1,7 @@
 {
   "name": "swipe-gesture",
   "version": "0.0.1",
-  "description": "",
+  "description": "Recognize swipe motion on common web browsers (WIP)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,5 +12,13 @@
   "license": "MIT",
   "devDependencies": {
     "typescript": "^1.7.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aereal/swipe-gesture.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aereal/swipe-gesture/issues"
+  },
+  "homepage": "https://github.com/aereal/swipe-gesture#readme"
 }
